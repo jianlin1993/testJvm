@@ -3,6 +3,7 @@ package testclassload;
 public class TestNoInitClass {
 
     public static void main(String[] args) {
+        //测试一下分支
     //System.out.println(ChildClass.value);
     SuperClass[] superClasses=new SuperClass[10];
 //    for(int i=0;i<10;i++){
